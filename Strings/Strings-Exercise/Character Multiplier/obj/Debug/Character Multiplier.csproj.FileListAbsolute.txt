@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Strings\Strings-Exercise\Character Multiplier\bin\Debug\Character Multiplier.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Strings\Strings-Exercise\Character Multiplier\bin\Debug\Character Multiplier.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Strings\Strings-Exercise\Character Multiplier\bin\Debug\Character Multiplier.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Strings\Strings-Exercise\Character Multiplier\obj\Debug\Character Multiplier.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Strings\Strings-Exercise\Character Multiplier\obj\Debug\Character Multiplier.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Strings\Strings-Exercise\Character Multiplier\obj\Debug\Character Multiplier.pdb

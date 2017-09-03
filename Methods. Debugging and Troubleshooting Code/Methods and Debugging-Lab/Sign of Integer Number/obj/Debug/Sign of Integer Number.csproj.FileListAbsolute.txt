@@ -1,0 +1,5 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\Methods and Debugging\Sign of Integer Number\bin\Debug\Sign of Integer Number.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\Methods and Debugging\Sign of Integer Number\bin\Debug\Sign of Integer Number.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\Methods and Debugging\Sign of Integer Number\bin\Debug\Sign of Integer Number.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\Methods and Debugging\Sign of Integer Number\obj\Debug\Sign of Integer Number.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\Methods and Debugging\Sign of Integer Number\obj\Debug\Sign of Integer Number.pdb

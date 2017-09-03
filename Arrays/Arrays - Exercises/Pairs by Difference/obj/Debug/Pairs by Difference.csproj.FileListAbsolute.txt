@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Arrays\Arrays - Exercises\Pairs by Difference\bin\Debug\Pairs by Difference.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Arrays\Arrays - Exercises\Pairs by Difference\bin\Debug\Pairs by Difference.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Arrays\Arrays - Exercises\Pairs by Difference\bin\Debug\Pairs by Difference.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Arrays\Arrays - Exercises\Pairs by Difference\obj\Debug\Pairs by Difference.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Arrays\Arrays - Exercises\Pairs by Difference\obj\Debug\Pairs by Difference.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Arrays\Arrays - Exercises\Pairs by Difference\obj\Debug\Pairs by Difference.pdb

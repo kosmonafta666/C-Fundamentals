@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\EXAM\Programming Fundamentals\Hornet Wings\bin\Debug\Hornet Wings.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\EXAM\Programming Fundamentals\Hornet Wings\bin\Debug\Hornet Wings.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\EXAM\Programming Fundamentals\Hornet Wings\bin\Debug\Hornet Wings.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\EXAM\Programming Fundamentals\Hornet Wings\obj\Debug\Hornet Wings.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\EXAM\Programming Fundamentals\Hornet Wings\obj\Debug\Hornet Wings.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\EXAM\Programming Fundamentals\Hornet Wings\obj\Debug\Hornet Wings.pdb

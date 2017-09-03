@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Regex\Regex-Exercise\Extract sentences by keyword\bin\Debug\Extract sentences by keyword.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Regex\Regex-Exercise\Extract sentences by keyword\bin\Debug\Extract sentences by keyword.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Regex\Regex-Exercise\Extract sentences by keyword\bin\Debug\Extract sentences by keyword.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Regex\Regex-Exercise\Extract sentences by keyword\obj\Debug\Extract sentences by keyword.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Regex\Regex-Exercise\Extract sentences by keyword\obj\Debug\Extract sentences by keyword.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Regex\Regex-Exercise\Extract sentences by keyword\obj\Debug\Extract sentences by keyword.pdb

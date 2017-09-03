@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists\Lists-Lab\Lists-Lab\Count Numbers\bin\Debug\Count Numbers.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists\Lists-Lab\Lists-Lab\Count Numbers\bin\Debug\Count Numbers.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists\Lists-Lab\Lists-Lab\Count Numbers\bin\Debug\Count Numbers.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists\Lists-Lab\Lists-Lab\Count Numbers\obj\Debug\Count Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists\Lists-Lab\Lists-Lab\Count Numbers\obj\Debug\Count Numbers.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists\Lists-Lab\Lists-Lab\Count Numbers\obj\Debug\Count Numbers.pdb

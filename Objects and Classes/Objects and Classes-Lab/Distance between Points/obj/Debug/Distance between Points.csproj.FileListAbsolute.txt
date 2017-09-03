@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Objects and Classes\Objects and Classes-Lab\Distance between Points\bin\Debug\Distance between Points.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Objects and Classes\Objects and Classes-Lab\Distance between Points\bin\Debug\Distance between Points.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Objects and Classes\Objects and Classes-Lab\Distance between Points\bin\Debug\Distance between Points.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Objects and Classes\Objects and Classes-Lab\Distance between Points\obj\Debug\Distance between Points.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Objects and Classes\Objects and Classes-Lab\Distance between Points\obj\Debug\Distance between Points.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Objects and Classes\Objects and Classes-Lab\Distance between Points\obj\Debug\Distance between Points.pdb

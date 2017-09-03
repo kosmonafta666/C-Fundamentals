@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Dictionaries, Lambda and LINQ\Dictionaries-Lab\Odd Occurrences\bin\Debug\Odd Occurrences.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Dictionaries, Lambda and LINQ\Dictionaries-Lab\Odd Occurrences\bin\Debug\Odd Occurrences.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Dictionaries, Lambda and LINQ\Dictionaries-Lab\Odd Occurrences\bin\Debug\Odd Occurrences.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Dictionaries, Lambda and LINQ\Dictionaries-Lab\Odd Occurrences\obj\Debug\Odd Occurrences.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Dictionaries, Lambda and LINQ\Dictionaries-Lab\Odd Occurrences\obj\Debug\Odd Occurrences.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Dictionaries, Lambda and LINQ\Dictionaries-Lab\Odd Occurrences\obj\Debug\Odd Occurrences.pdb

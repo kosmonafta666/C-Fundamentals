@@ -1,0 +1,5 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Arrays\Arrays - Exercises\Index of Letters\bin\Debug\Index of Letters.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Arrays\Arrays - Exercises\Index of Letters\bin\Debug\Index of Letters.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Arrays\Arrays - Exercises\Index of Letters\bin\Debug\Index of Letters.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Arrays\Arrays - Exercises\Index of Letters\obj\Debug\Index of Letters.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Arrays\Arrays - Exercises\Index of Letters\obj\Debug\Index of Letters.pdb

@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Regex\Regex-Lab\Replace a tag\bin\Debug\Replace a tag.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Regex\Regex-Lab\Replace a tag\bin\Debug\Replace a tag.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Regex\Regex-Lab\Replace a tag\bin\Debug\Replace a tag.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Regex\Regex-Lab\Replace a tag\obj\Debug\Replace a tag.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Regex\Regex-Lab\Replace a tag\obj\Debug\Replace a tag.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Regex\Regex-Lab\Replace a tag\obj\Debug\Replace a tag.pdb

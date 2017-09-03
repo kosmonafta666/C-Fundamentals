@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\Methods _Debug-Exercises\Factorial\bin\Debug\Factorial.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\Methods _Debug-Exercises\Factorial\bin\Debug\Factorial.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\Methods _Debug-Exercises\Factorial\bin\Debug\Factorial.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\Methods _Debug-Exercises\Factorial\obj\Debug\Factorial.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\Methods _Debug-Exercises\Factorial\obj\Debug\Factorial.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\Methods _Debug-Exercises\Factorial\obj\Debug\Factorial.pdb

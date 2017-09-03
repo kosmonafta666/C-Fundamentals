@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Arrays\Arrays-Lab\Sum Arrays\bin\Debug\Sum Arrays.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Arrays\Arrays-Lab\Sum Arrays\bin\Debug\Sum Arrays.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Arrays\Arrays-Lab\Sum Arrays\bin\Debug\Sum Arrays.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Arrays\Arrays-Lab\Sum Arrays\obj\Debug\Sum Arrays.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Arrays\Arrays-Lab\Sum Arrays\obj\Debug\Sum Arrays.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Arrays\Arrays-Lab\Sum Arrays\obj\Debug\Sum Arrays.pdb

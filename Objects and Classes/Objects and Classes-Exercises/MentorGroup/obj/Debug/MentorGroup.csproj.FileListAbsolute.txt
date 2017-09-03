@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Objects and Classes\Objects and Classes-Exercises\MentorGroup\bin\Debug\MentorGroup.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Objects and Classes\Objects and Classes-Exercises\MentorGroup\bin\Debug\MentorGroup.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Objects and Classes\Objects and Classes-Exercises\MentorGroup\bin\Debug\MentorGroup.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Objects and Classes\Objects and Classes-Exercises\MentorGroup\obj\Debug\MentorGroup.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Objects and Classes\Objects and Classes-Exercises\MentorGroup\obj\Debug\MentorGroup.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Objects and Classes\Objects and Classes-Exercises\MentorGroup\obj\Debug\MentorGroup.pdb

@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists\Lists-Lab\Lists-Lab\Square Numbers\bin\Debug\Square Numbers.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists\Lists-Lab\Lists-Lab\Square Numbers\bin\Debug\Square Numbers.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists\Lists-Lab\Lists-Lab\Square Numbers\bin\Debug\Square Numbers.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists\Lists-Lab\Lists-Lab\Square Numbers\obj\Debug\Square Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists\Lists-Lab\Lists-Lab\Square Numbers\obj\Debug\Square Numbers.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists\Lists-Lab\Lists-Lab\Square Numbers\obj\Debug\Square Numbers.pdb

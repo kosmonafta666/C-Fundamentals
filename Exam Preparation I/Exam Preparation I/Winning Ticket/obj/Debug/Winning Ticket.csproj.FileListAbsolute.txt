@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Exam Preparation I\Exam Preparation I\Winning Ticket\bin\Debug\Winning Ticket.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Exam Preparation I\Exam Preparation I\Winning Ticket\bin\Debug\Winning Ticket.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Exam Preparation I\Exam Preparation I\Winning Ticket\bin\Debug\Winning Ticket.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Exam Preparation I\Exam Preparation I\Winning Ticket\obj\Debug\Winning Ticket.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Exam Preparation I\Exam Preparation I\Winning Ticket\obj\Debug\Winning Ticket.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Exam Preparation I\Exam Preparation I\Winning Ticket\obj\Debug\Winning Ticket.pdb

@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists\Lists-Exercises\Bomb Numbers\bin\Debug\Bomb Numbers.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists\Lists-Exercises\Bomb Numbers\bin\Debug\Bomb Numbers.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists\Lists-Exercises\Bomb Numbers\bin\Debug\Bomb Numbers.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists\Lists-Exercises\Bomb Numbers\obj\Debug\Bomb Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists\Lists-Exercises\Bomb Numbers\obj\Debug\Bomb Numbers.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists\Lists-Exercises\Bomb Numbers\obj\Debug\Bomb Numbers.pdb

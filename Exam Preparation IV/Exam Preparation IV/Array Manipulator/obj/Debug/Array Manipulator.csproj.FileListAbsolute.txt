@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Exam Preparation IV\Exam Preparation IV\Array Manipulator\bin\Debug\Array Manipulator.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Exam Preparation IV\Exam Preparation IV\Array Manipulator\obj\Debug\Array Manipulator.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Exam Preparation IV\Exam Preparation IV\Array Manipulator\bin\Debug\Array Manipulator.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Exam Preparation IV\Exam Preparation IV\Array Manipulator\bin\Debug\Array Manipulator.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Exam Preparation IV\Exam Preparation IV\Array Manipulator\obj\Debug\Array Manipulator.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Exam Preparation IV\Exam Preparation IV\Array Manipulator\obj\Debug\Array Manipulator.pdb

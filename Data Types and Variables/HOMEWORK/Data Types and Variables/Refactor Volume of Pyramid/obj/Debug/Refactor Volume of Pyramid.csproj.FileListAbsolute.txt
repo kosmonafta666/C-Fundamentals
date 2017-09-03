@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Data Types and Variables\HOMEWORK\Data Types and Variables\Refactor Volume of Pyramid\bin\Debug\Refactor Volume of Pyramid.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Data Types and Variables\HOMEWORK\Data Types and Variables\Refactor Volume of Pyramid\bin\Debug\Refactor Volume of Pyramid.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Data Types and Variables\HOMEWORK\Data Types and Variables\Refactor Volume of Pyramid\bin\Debug\Refactor Volume of Pyramid.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Data Types and Variables\HOMEWORK\Data Types and Variables\Refactor Volume of Pyramid\obj\Debug\Refactor Volume of Pyramid.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Data Types and Variables\HOMEWORK\Data Types and Variables\Refactor Volume of Pyramid\obj\Debug\Refactor Volume of Pyramid.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Data Types and Variables\HOMEWORK\Data Types and Variables\Refactor Volume of Pyramid\obj\Debug\Refactor Volume of Pyramid.csprojResolveAssemblyReference.cache

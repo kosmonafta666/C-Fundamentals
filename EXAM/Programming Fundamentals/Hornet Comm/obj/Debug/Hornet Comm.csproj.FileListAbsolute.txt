@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\EXAM\Programming Fundamentals\Hornet Comm\bin\Debug\Hornet Comm.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\EXAM\Programming Fundamentals\Hornet Comm\bin\Debug\Hornet Comm.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\EXAM\Programming Fundamentals\Hornet Comm\bin\Debug\Hornet Comm.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\EXAM\Programming Fundamentals\Hornet Comm\obj\Debug\Hornet Comm.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\EXAM\Programming Fundamentals\Hornet Comm\obj\Debug\Hornet Comm.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\EXAM\Programming Fundamentals\Hornet Comm\obj\Debug\Hornet Comm.csprojResolveAssemblyReference.cache

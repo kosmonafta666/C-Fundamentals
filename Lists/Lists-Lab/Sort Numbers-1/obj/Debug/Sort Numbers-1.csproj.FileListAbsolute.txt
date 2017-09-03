@@ -1,0 +1,5 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists\Lists-Lab\Lists-Lab\Sort Numbers-1\bin\Debug\Sort Numbers-1.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists\Lists-Lab\Lists-Lab\Sort Numbers-1\bin\Debug\Sort Numbers-1.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists\Lists-Lab\Lists-Lab\Sort Numbers-1\bin\Debug\Sort Numbers-1.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists\Lists-Lab\Lists-Lab\Sort Numbers-1\obj\Debug\Sort Numbers-1.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists\Lists-Lab\Lists-Lab\Sort Numbers-1\obj\Debug\Sort Numbers-1.pdb

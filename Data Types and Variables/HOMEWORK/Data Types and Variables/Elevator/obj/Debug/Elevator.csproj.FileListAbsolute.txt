@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Data Types and Variables\HOMEWORK\Data Types and Variables\Elevator\bin\Debug\Elevator.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Data Types and Variables\HOMEWORK\Data Types and Variables\Elevator\obj\Debug\Elevator.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Data Types and Variables\HOMEWORK\Data Types and Variables\Elevator\bin\Debug\Elevator.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Data Types and Variables\HOMEWORK\Data Types and Variables\Elevator\bin\Debug\Elevator.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Data Types and Variables\HOMEWORK\Data Types and Variables\Elevator\obj\Debug\Elevator.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Data Types and Variables\HOMEWORK\Data Types and Variables\Elevator\obj\Debug\Elevator.pdb

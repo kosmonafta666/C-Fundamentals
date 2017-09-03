@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Data Types and Variables\HOMEWORK\Data Types and Variables\Triples of Letters\bin\Debug\Triples of Letters.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Data Types and Variables\HOMEWORK\Data Types and Variables\Triples of Letters\bin\Debug\Triples of Letters.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Data Types and Variables\HOMEWORK\Data Types and Variables\Triples of Letters\bin\Debug\Triples of Letters.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Data Types and Variables\HOMEWORK\Data Types and Variables\Triples of Letters\obj\Debug\Triples of Letters.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Data Types and Variables\HOMEWORK\Data Types and Variables\Triples of Letters\obj\Debug\Triples of Letters.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Data Types and Variables\HOMEWORK\Data Types and Variables\Triples of Letters\obj\Debug\Triples of Letters.pdb

@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Exam Preparation I\Exam Preparation I\SoftUni Karaoke\bin\Debug\SoftUni Karaoke.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Exam Preparation I\Exam Preparation I\SoftUni Karaoke\bin\Debug\SoftUni Karaoke.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Exam Preparation I\Exam Preparation I\SoftUni Karaoke\bin\Debug\SoftUni Karaoke.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Exam Preparation I\Exam Preparation I\SoftUni Karaoke\obj\Debug\SoftUni Karaoke.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Exam Preparation I\Exam Preparation I\SoftUni Karaoke\obj\Debug\SoftUni Karaoke.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Exam Preparation I\Exam Preparation I\SoftUni Karaoke\obj\Debug\SoftUni Karaoke.pdb

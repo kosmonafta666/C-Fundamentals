@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Exam Preparation II\Exam Preparation II\Roli The Coder\bin\Debug\Roli The Coder.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Exam Preparation II\Exam Preparation II\Roli The Coder\bin\Debug\Roli The Coder.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Exam Preparation II\Exam Preparation II\Roli The Coder\bin\Debug\Roli The Coder.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Exam Preparation II\Exam Preparation II\Roli The Coder\obj\Debug\Roli The Coder.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Exam Preparation II\Exam Preparation II\Roli The Coder\obj\Debug\Roli The Coder.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Exam Preparation II\Exam Preparation II\Roli The Coder\obj\Debug\Roli The Coder.pdb

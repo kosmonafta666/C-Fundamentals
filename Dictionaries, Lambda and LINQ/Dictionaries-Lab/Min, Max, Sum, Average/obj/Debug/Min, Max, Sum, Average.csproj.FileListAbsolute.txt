@@ -1,0 +1,5 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Dictionaries, Lambda and LINQ\Dictionaries-Lab\Min, Max, Sum, Average\bin\Debug\Min, Max, Sum, Average.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Dictionaries, Lambda and LINQ\Dictionaries-Lab\Min, Max, Sum, Average\bin\Debug\Min, Max, Sum, Average.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Dictionaries, Lambda and LINQ\Dictionaries-Lab\Min, Max, Sum, Average\bin\Debug\Min, Max, Sum, Average.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Dictionaries, Lambda and LINQ\Dictionaries-Lab\Min, Max, Sum, Average\obj\Debug\Min, Max, Sum, Average.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Dictionaries, Lambda and LINQ\Dictionaries-Lab\Min, Max, Sum, Average\obj\Debug\Min, Max, Sum, Average.pdb

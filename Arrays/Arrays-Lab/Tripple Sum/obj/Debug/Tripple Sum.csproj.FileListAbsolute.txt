@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Arrays\Arrays-Lab\Tripple Sum\bin\Debug\Tripple Sum.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Arrays\Arrays-Lab\Tripple Sum\obj\Debug\Tripple Sum.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Arrays\Arrays-Lab\Tripple Sum\bin\Debug\Tripple Sum.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Arrays\Arrays-Lab\Tripple Sum\bin\Debug\Tripple Sum.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Arrays\Arrays-Lab\Tripple Sum\obj\Debug\Tripple Sum.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Arrays\Arrays-Lab\Tripple Sum\obj\Debug\Tripple Sum.pdb

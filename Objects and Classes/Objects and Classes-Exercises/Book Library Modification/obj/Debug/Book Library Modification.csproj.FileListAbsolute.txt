@@ -1,0 +1,5 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Objects and Classes\Objects and Classes-Exercises\Book Library Modification\bin\Debug\Book Library Modification.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Objects and Classes\Objects and Classes-Exercises\Book Library Modification\bin\Debug\Book Library Modification.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Objects and Classes\Objects and Classes-Exercises\Book Library Modification\bin\Debug\Book Library Modification.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Objects and Classes\Objects and Classes-Exercises\Book Library Modification\obj\Debug\Book Library Modification.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Objects and Classes\Objects and Classes-Exercises\Book Library Modification\obj\Debug\Book Library Modification.pdb

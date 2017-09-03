@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\Methods _Debug-Exercises\Geometry Calculator\bin\Debug\Geometry Calculator.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\Methods _Debug-Exercises\Geometry Calculator\bin\Debug\Geometry Calculator.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\Methods _Debug-Exercises\Geometry Calculator\bin\Debug\Geometry Calculator.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\Methods _Debug-Exercises\Geometry Calculator\obj\Debug\Geometry Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\Methods _Debug-Exercises\Geometry Calculator\obj\Debug\Geometry Calculator.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\Methods _Debug-Exercises\Geometry Calculator\obj\Debug\Geometry Calculator.pdb

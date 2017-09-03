@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists\Lists-Lab\Lists-Lab\Sum Adjacent Equal Numbers\bin\Debug\Sum Adjacent Equal Numbers.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists\Lists-Lab\Lists-Lab\Sum Adjacent Equal Numbers\obj\Debug\Sum Adjacent Equal Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists\Lists-Lab\Lists-Lab\Sum Adjacent Equal Numbers\bin\Debug\Sum Adjacent Equal Numbers.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists\Lists-Lab\Lists-Lab\Sum Adjacent Equal Numbers\bin\Debug\Sum Adjacent Equal Numbers.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists\Lists-Lab\Lists-Lab\Sum Adjacent Equal Numbers\obj\Debug\Sum Adjacent Equal Numbers.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists\Lists-Lab\Lists-Lab\Sum Adjacent Equal Numbers\obj\Debug\Sum Adjacent Equal Numbers.pdb

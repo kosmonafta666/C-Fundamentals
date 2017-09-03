@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Arrays\Arrays-Lab\Reverse Array of Strings\bin\Debug\Reverse Array of Strings.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Arrays\Arrays-Lab\Reverse Array of Strings\bin\Debug\Reverse Array of Strings.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Arrays\Arrays-Lab\Reverse Array of Strings\bin\Debug\Reverse Array of Strings.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Arrays\Arrays-Lab\Reverse Array of Strings\obj\Debug\Reverse Array of Strings.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Arrays\Arrays-Lab\Reverse Array of Strings\obj\Debug\Reverse Array of Strings.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Arrays\Arrays-Lab\Reverse Array of Strings\obj\Debug\Reverse Array of Strings.pdb

@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Dictionaries, Lambda and LINQ\Dictionaries-Lab\ShortWordsSorted\bin\Debug\ShortWordsSorted.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Dictionaries, Lambda and LINQ\Dictionaries-Lab\ShortWordsSorted\bin\Debug\ShortWordsSorted.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Dictionaries, Lambda and LINQ\Dictionaries-Lab\ShortWordsSorted\bin\Debug\ShortWordsSorted.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Dictionaries, Lambda and LINQ\Dictionaries-Lab\ShortWordsSorted\obj\Debug\ShortWordsSorted.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Dictionaries, Lambda and LINQ\Dictionaries-Lab\ShortWordsSorted\obj\Debug\ShortWordsSorted.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Dictionaries, Lambda and LINQ\Dictionaries-Lab\ShortWordsSorted\obj\Debug\ShortWordsSorted.pdb

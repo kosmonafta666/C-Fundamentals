@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Objects and Classes\Objects and Classes-Exercises\Average Grades\bin\Debug\Average Grades.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Objects and Classes\Objects and Classes-Exercises\Average Grades\bin\Debug\Average Grades.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Objects and Classes\Objects and Classes-Exercises\Average Grades\bin\Debug\Average Grades.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Objects and Classes\Objects and Classes-Exercises\Average Grades\obj\Debug\Average Grades.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Objects and Classes\Objects and Classes-Exercises\Average Grades\obj\Debug\Average Grades.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Objects and Classes\Objects and Classes-Exercises\Average Grades\obj\Debug\Average Grades.pdb

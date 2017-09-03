@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Arrays\Arrays-Lab\Rounding Numbers\bin\Debug\Rounding Numbers.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Arrays\Arrays-Lab\Rounding Numbers\bin\Debug\Rounding Numbers.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Arrays\Arrays-Lab\Rounding Numbers\bin\Debug\Rounding Numbers.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Arrays\Arrays-Lab\Rounding Numbers\obj\Debug\Rounding Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Arrays\Arrays-Lab\Rounding Numbers\obj\Debug\Rounding Numbers.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Arrays\Arrays-Lab\Rounding Numbers\obj\Debug\Rounding Numbers.pdb

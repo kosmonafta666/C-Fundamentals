@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\Methods _Debug-Exercises\Hello, Name!\bin\Debug\Hello, Name!.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\Methods _Debug-Exercises\Hello, Name!\bin\Debug\Hello, Name!.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\Methods _Debug-Exercises\Hello, Name!\bin\Debug\Hello, Name!.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\Methods _Debug-Exercises\Hello, Name!\obj\Debug\Hello, Name!.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\Methods _Debug-Exercises\Hello, Name!\obj\Debug\Hello, Name!.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\Methods _Debug-Exercises\Hello, Name!\obj\Debug\Hello, Name!.pdb

@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\Methods _Debug-Exercises\Center Point\bin\Debug\Center Point.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\Methods _Debug-Exercises\Center Point\bin\Debug\Center Point.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\Methods _Debug-Exercises\Center Point\bin\Debug\Center Point.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\Methods _Debug-Exercises\Center Point\obj\Debug\Center Point.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\Methods _Debug-Exercises\Center Point\obj\Debug\Center Point.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\Methods _Debug-Exercises\Center Point\obj\Debug\Center Point.pdb

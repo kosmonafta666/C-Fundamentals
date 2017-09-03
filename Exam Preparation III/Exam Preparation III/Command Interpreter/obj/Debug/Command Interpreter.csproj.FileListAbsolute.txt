@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Exam Preparation III\Exam Preparation III\Command Interpreter\bin\Debug\Command Interpreter.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Exam Preparation III\Exam Preparation III\Command Interpreter\bin\Debug\Command Interpreter.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Exam Preparation III\Exam Preparation III\Command Interpreter\bin\Debug\Command Interpreter.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Exam Preparation III\Exam Preparation III\Command Interpreter\obj\Debug\Command Interpreter.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Exam Preparation III\Exam Preparation III\Command Interpreter\obj\Debug\Command Interpreter.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Exam Preparation III\Exam Preparation III\Command Interpreter\obj\Debug\Command Interpreter.pdb

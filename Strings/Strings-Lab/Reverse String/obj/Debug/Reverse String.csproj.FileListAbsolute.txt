@@ -1,0 +1,5 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Strings\Strings-Lab\Reverse String\bin\Debug\Reverse String.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Strings\Strings-Lab\Reverse String\bin\Debug\Reverse String.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Strings\Strings-Lab\Reverse String\bin\Debug\Reverse String.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Strings\Strings-Lab\Reverse String\obj\Debug\Reverse String.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Strings\Strings-Lab\Reverse String\obj\Debug\Reverse String.pdb

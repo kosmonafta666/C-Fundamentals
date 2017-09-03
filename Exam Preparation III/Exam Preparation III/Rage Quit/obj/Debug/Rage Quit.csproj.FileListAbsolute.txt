@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Exam Preparation III\Exam Preparation III\Rage Quit\bin\Debug\Rage Quit.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Exam Preparation III\Exam Preparation III\Rage Quit\bin\Debug\Rage Quit.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Exam Preparation III\Exam Preparation III\Rage Quit\bin\Debug\Rage Quit.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Exam Preparation III\Exam Preparation III\Rage Quit\obj\Debug\Rage Quit.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Exam Preparation III\Exam Preparation III\Rage Quit\obj\Debug\Rage Quit.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Exam Preparation III\Exam Preparation III\Rage Quit\obj\Debug\Rage Quit.pdb

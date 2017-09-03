@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\Methods and Debugging\Draw a Filled Square\bin\Debug\Draw a Filled Square.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\Methods and Debugging\Draw a Filled Square\obj\Debug\Draw a Filled Square.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\Methods and Debugging\Draw a Filled Square\bin\Debug\Draw a Filled Square.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\Methods and Debugging\Draw a Filled Square\bin\Debug\Draw a Filled Square.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\Methods and Debugging\Draw a Filled Square\obj\Debug\Draw a Filled Square.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\Methods and Debugging\Draw a Filled Square\obj\Debug\Draw a Filled Square.pdb

@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\Methods _Debug-Exercises\Longer Line\bin\Debug\Longer Line.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\Methods _Debug-Exercises\Longer Line\bin\Debug\Longer Line.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\Methods _Debug-Exercises\Longer Line\bin\Debug\Longer Line.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\Methods _Debug-Exercises\Longer Line\obj\Debug\Longer Line.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\Methods _Debug-Exercises\Longer Line\obj\Debug\Longer Line.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\Methods _Debug-Exercises\Longer Line\obj\Debug\Longer Line.pdb

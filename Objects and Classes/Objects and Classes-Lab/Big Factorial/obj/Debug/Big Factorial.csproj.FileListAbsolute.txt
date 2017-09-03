@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Objects and Classes\Objects and Classes-Lab\Big Factorial\bin\Debug\Big Factorial.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Objects and Classes\Objects and Classes-Lab\Big Factorial\bin\Debug\Big Factorial.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Objects and Classes\Objects and Classes-Lab\Big Factorial\bin\Debug\Big Factorial.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Objects and Classes\Objects and Classes-Lab\Big Factorial\obj\Debug\Big Factorial.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Objects and Classes\Objects and Classes-Lab\Big Factorial\obj\Debug\Big Factorial.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Objects and Classes\Objects and Classes-Lab\Big Factorial\obj\Debug\Big Factorial.pdb

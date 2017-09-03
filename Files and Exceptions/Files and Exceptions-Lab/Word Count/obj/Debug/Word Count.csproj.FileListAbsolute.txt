@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Files and Exceptions\Files and Exceptions-Lab\Word Count\bin\Debug\Word Count.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Files and Exceptions\Files and Exceptions-Lab\Word Count\bin\Debug\Word Count.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Files and Exceptions\Files and Exceptions-Lab\Word Count\bin\Debug\Word Count.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Files and Exceptions\Files and Exceptions-Lab\Word Count\obj\Debug\Word Count.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Files and Exceptions\Files and Exceptions-Lab\Word Count\obj\Debug\Word Count.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Files and Exceptions\Files and Exceptions-Lab\Word Count\obj\Debug\Word Count.pdb

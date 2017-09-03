@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Objects and Classes\Objects and Classes-Exercises\Advertisement Message\bin\Debug\Advertisement Message.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Objects and Classes\Objects and Classes-Exercises\Advertisement Message\bin\Debug\Advertisement Message.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Objects and Classes\Objects and Classes-Exercises\Advertisement Message\bin\Debug\Advertisement Message.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Objects and Classes\Objects and Classes-Exercises\Advertisement Message\obj\Debug\Advertisement Message.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Objects and Classes\Objects and Classes-Exercises\Advertisement Message\obj\Debug\Advertisement Message.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Objects and Classes\Objects and Classes-Exercises\Advertisement Message\obj\Debug\Advertisement Message.pdb

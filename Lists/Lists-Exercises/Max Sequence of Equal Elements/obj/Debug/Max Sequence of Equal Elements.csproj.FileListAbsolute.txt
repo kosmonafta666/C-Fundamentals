@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists\Lists-Exercises\Max Sequence of Equal Elements\bin\Debug\Max Sequence of Equal Elements.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists\Lists-Exercises\Max Sequence of Equal Elements\obj\Debug\Max Sequence of Equal Elements.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists\Lists-Exercises\Max Sequence of Equal Elements\bin\Debug\Max Sequence of Equal Elements.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists\Lists-Exercises\Max Sequence of Equal Elements\bin\Debug\Max Sequence of Equal Elements.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists\Lists-Exercises\Max Sequence of Equal Elements\obj\Debug\Max Sequence of Equal Elements.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists\Lists-Exercises\Max Sequence of Equal Elements\obj\Debug\Max Sequence of Equal Elements.pdb

@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Exam Preparation IV\Exam Preparation IV\Sweet Dessert\bin\Debug\Sweet Dessert.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Exam Preparation IV\Exam Preparation IV\Sweet Dessert\bin\Debug\Sweet Dessert.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Exam Preparation IV\Exam Preparation IV\Sweet Dessert\bin\Debug\Sweet Dessert.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Exam Preparation IV\Exam Preparation IV\Sweet Dessert\obj\Debug\Sweet Dessert.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Exam Preparation IV\Exam Preparation IV\Sweet Dessert\obj\Debug\Sweet Dessert.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Exam Preparation IV\Exam Preparation IV\Sweet Dessert\obj\Debug\Sweet Dessert.pdb

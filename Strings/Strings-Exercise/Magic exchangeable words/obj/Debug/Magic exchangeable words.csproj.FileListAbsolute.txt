@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Strings\Strings-Exercise\Magic exchangeable words\bin\Debug\Magic exchangeable words.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Strings\Strings-Exercise\Magic exchangeable words\bin\Debug\Magic exchangeable words.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Strings\Strings-Exercise\Magic exchangeable words\bin\Debug\Magic exchangeable words.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Strings\Strings-Exercise\Magic exchangeable words\obj\Debug\Magic exchangeable words.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Strings\Strings-Exercise\Magic exchangeable words\obj\Debug\Magic exchangeable words.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Strings\Strings-Exercise\Magic exchangeable words\obj\Debug\Magic exchangeable words.pdb

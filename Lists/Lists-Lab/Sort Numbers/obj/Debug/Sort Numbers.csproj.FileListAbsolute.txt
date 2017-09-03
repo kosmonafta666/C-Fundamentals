@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists\Lists-Lab\Lists-Lab\Sort Numbers\bin\Debug\Sort Numbers.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists\Lists-Lab\Lists-Lab\Sort Numbers\bin\Debug\Sort Numbers.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists\Lists-Lab\Lists-Lab\Sort Numbers\bin\Debug\Sort Numbers.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists\Lists-Lab\Lists-Lab\Sort Numbers\obj\Debug\Sort Numbers.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists\Lists-Lab\Lists-Lab\Sort Numbers\obj\Debug\Sort Numbers.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists\Lists-Lab\Lists-Lab\Sort Numbers\obj\Debug\Sort Numbers.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Arrays\Arrays-Lab\Last K Numbers Sums\bin\Debug\Last K Numbers Sums.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Arrays\Arrays-Lab\Last K Numbers Sums\bin\Debug\Last K Numbers Sums.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Arrays\Arrays-Lab\Last K Numbers Sums\bin\Debug\Last K Numbers Sums.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Arrays\Arrays-Lab\Last K Numbers Sums\obj\Debug\Last K Numbers Sums.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Arrays\Arrays-Lab\Last K Numbers Sums\obj\Debug\Last K Numbers Sums.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Arrays\Arrays-Lab\Last K Numbers Sums\obj\Debug\Last K Numbers Sums.pdb

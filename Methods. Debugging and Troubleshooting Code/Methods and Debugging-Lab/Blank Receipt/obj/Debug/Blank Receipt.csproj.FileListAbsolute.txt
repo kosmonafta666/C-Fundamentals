@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\Methods and Debugging\Blank Receipt\bin\Debug\Blank Receipt.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\Methods and Debugging\Blank Receipt\bin\Debug\Blank Receipt.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\Methods and Debugging\Blank Receipt\bin\Debug\Blank Receipt.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\Methods and Debugging\Blank Receipt\obj\Debug\Blank Receipt.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\Methods and Debugging\Blank Receipt\obj\Debug\Blank Receipt.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\Methods and Debugging\Blank Receipt\obj\Debug\Blank Receipt.pdb

@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Programming Fundamentals Exam-6.01.2017\Fundamentals Exam-6.01.17\Sino The Walker\bin\Debug\Sino The Walker.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Programming Fundamentals Exam-6.01.2017\Fundamentals Exam-6.01.17\Sino The Walker\obj\Debug\Sino The Walker.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Programming Fundamentals Exam-6.01.2017\Fundamentals Exam-6.01.17\Sino The Walker\bin\Debug\Sino The Walker.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Programming Fundamentals Exam-6.01.2017\Fundamentals Exam-6.01.17\Sino The Walker\bin\Debug\Sino The Walker.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Programming Fundamentals Exam-6.01.2017\Fundamentals Exam-6.01.17\Sino The Walker\obj\Debug\Sino The Walker.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Programming Fundamentals Exam-6.01.2017\Fundamentals Exam-6.01.17\Sino The Walker\obj\Debug\Sino The Walker.pdb

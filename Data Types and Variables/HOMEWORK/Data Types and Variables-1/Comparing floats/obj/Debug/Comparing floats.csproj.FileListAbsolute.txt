@@ -1,0 +1,5 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Data Types and Variables\HOMEWORK\Data Types and Variables-1\Comparing floats\bin\Debug\Comparing floats.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Data Types and Variables\HOMEWORK\Data Types and Variables-1\Comparing floats\bin\Debug\Comparing floats.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Data Types and Variables\HOMEWORK\Data Types and Variables-1\Comparing floats\bin\Debug\Comparing floats.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Data Types and Variables\HOMEWORK\Data Types and Variables-1\Comparing floats\obj\Debug\Comparing floats.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Data Types and Variables\HOMEWORK\Data Types and Variables-1\Comparing floats\obj\Debug\Comparing floats.pdb

@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Files and Exceptions\Files and Exceptions-Exercises\Most Frequent Number\bin\Debug\Most Frequent Number.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Files and Exceptions\Files and Exceptions-Exercises\Most Frequent Number\bin\Debug\Most Frequent Number.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Files and Exceptions\Files and Exceptions-Exercises\Most Frequent Number\bin\Debug\Most Frequent Number.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Files and Exceptions\Files and Exceptions-Exercises\Most Frequent Number\obj\Debug\Most Frequent Number.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Files and Exceptions\Files and Exceptions-Exercises\Most Frequent Number\obj\Debug\Most Frequent Number.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Files and Exceptions\Files and Exceptions-Exercises\Most Frequent Number\obj\Debug\Most Frequent Number.pdb

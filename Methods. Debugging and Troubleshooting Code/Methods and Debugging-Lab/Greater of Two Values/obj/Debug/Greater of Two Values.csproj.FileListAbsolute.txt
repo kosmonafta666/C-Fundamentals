@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\Methods and Debugging\Greater of Two Values\bin\Debug\Greater of Two Values.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\Methods and Debugging\Greater of Two Values\bin\Debug\Greater of Two Values.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\Methods and Debugging\Greater of Two Values\bin\Debug\Greater of Two Values.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\Methods and Debugging\Greater of Two Values\obj\Debug\Greater of Two Values.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\Methods and Debugging\Greater of Two Values\obj\Debug\Greater of Two Values.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Methods. Debugging and Troubleshooting Code\Methods and Debugging\Greater of Two Values\obj\Debug\Greater of Two Values.pdb

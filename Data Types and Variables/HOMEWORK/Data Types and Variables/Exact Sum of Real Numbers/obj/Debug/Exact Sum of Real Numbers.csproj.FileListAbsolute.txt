@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Data Types and Variables\HOMEWORK\Data Types and Variables\Exact Sum of Real Numbers\bin\Debug\Exact Sum of Real Numbers.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Data Types and Variables\HOMEWORK\Data Types and Variables\Exact Sum of Real Numbers\bin\Debug\Exact Sum of Real Numbers.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Data Types and Variables\HOMEWORK\Data Types and Variables\Exact Sum of Real Numbers\bin\Debug\Exact Sum of Real Numbers.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Data Types and Variables\HOMEWORK\Data Types and Variables\Exact Sum of Real Numbers\obj\Debug\Exact Sum of Real Numbers.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Data Types and Variables\HOMEWORK\Data Types and Variables\Exact Sum of Real Numbers\obj\Debug\Exact Sum of Real Numbers.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Data Types and Variables\HOMEWORK\Data Types and Variables\Exact Sum of Real Numbers\obj\Debug\Exact Sum of Real Numbers.csprojResolveAssemblyReference.cache

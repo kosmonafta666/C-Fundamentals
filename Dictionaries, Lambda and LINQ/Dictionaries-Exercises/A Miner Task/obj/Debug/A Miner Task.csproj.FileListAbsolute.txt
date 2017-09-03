@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Dictionaries, Lambda and LINQ\Dictionaries-Exercises\A Miner Task\bin\Debug\A Miner Task.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Dictionaries, Lambda and LINQ\Dictionaries-Exercises\A Miner Task\obj\Debug\A Miner Task.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Dictionaries, Lambda and LINQ\Dictionaries-Exercises\A Miner Task\bin\Debug\A Miner Task.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Dictionaries, Lambda and LINQ\Dictionaries-Exercises\A Miner Task\bin\Debug\A Miner Task.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Dictionaries, Lambda and LINQ\Dictionaries-Exercises\A Miner Task\obj\Debug\A Miner Task.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Dictionaries, Lambda and LINQ\Dictionaries-Exercises\A Miner Task\obj\Debug\A Miner Task.pdb

@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Exam Preparation III\Exam Preparation III\Softuni Coffee Orders\bin\Debug\Softuni Coffee Orders.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Exam Preparation III\Exam Preparation III\Softuni Coffee Orders\bin\Debug\Softuni Coffee Orders.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Exam Preparation III\Exam Preparation III\Softuni Coffee Orders\bin\Debug\Softuni Coffee Orders.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Exam Preparation III\Exam Preparation III\Softuni Coffee Orders\obj\Debug\Softuni Coffee Orders.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Exam Preparation III\Exam Preparation III\Softuni Coffee Orders\obj\Debug\Softuni Coffee Orders.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Exam Preparation III\Exam Preparation III\Softuni Coffee Orders\obj\Debug\Softuni Coffee Orders.pdb

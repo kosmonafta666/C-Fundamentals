@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Strings\Strings-Lab\Text Filter\bin\Debug\Text Filter.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Strings\Strings-Lab\Text Filter\obj\Debug\Text Filter.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Strings\Strings-Lab\Text Filter\bin\Debug\Text Filter.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Strings\Strings-Lab\Text Filter\bin\Debug\Text Filter.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Strings\Strings-Lab\Text Filter\obj\Debug\Text Filter.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Strings\Strings-Lab\Text Filter\obj\Debug\Text Filter.pdb

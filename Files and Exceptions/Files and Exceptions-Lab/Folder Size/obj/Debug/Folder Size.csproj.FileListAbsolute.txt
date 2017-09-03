@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Files and Exceptions\Files and Exceptions-Lab\Folder Size\bin\Debug\Folder Size.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Files and Exceptions\Files and Exceptions-Lab\Folder Size\bin\Debug\Folder Size.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Files and Exceptions\Files and Exceptions-Lab\Folder Size\bin\Debug\Folder Size.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Files and Exceptions\Files and Exceptions-Lab\Folder Size\obj\Debug\Folder Size.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Files and Exceptions\Files and Exceptions-Lab\Folder Size\obj\Debug\Folder Size.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Files and Exceptions\Files and Exceptions-Lab\Folder Size\obj\Debug\Folder Size.pdb

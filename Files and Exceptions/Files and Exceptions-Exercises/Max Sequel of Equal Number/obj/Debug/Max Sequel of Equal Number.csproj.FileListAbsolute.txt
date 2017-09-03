@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Files and Exceptions\Files and Exceptions-Exercises\Max Sequel of Equal Number\bin\Debug\Max Sequel of Equal Number.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Files and Exceptions\Files and Exceptions-Exercises\Max Sequel of Equal Number\bin\Debug\Max Sequel of Equal Number.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Files and Exceptions\Files and Exceptions-Exercises\Max Sequel of Equal Number\bin\Debug\Max Sequel of Equal Number.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Files and Exceptions\Files and Exceptions-Exercises\Max Sequel of Equal Number\obj\Debug\Max Sequel of Equal Number.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Files and Exceptions\Files and Exceptions-Exercises\Max Sequel of Equal Number\obj\Debug\Max Sequel of Equal Number.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Files and Exceptions\Files and Exceptions-Exercises\Max Sequel of Equal Number\obj\Debug\Max Sequel of Equal Number.pdb

@@ -1,0 +1,5 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Data Types and Variables\HOMEWORK\Data Types and Variables-1\Print Part Of ASCII Table\bin\Debug\Print Part Of ASCII Table.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Data Types and Variables\HOMEWORK\Data Types and Variables-1\Print Part Of ASCII Table\bin\Debug\Print Part Of ASCII Table.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Data Types and Variables\HOMEWORK\Data Types and Variables-1\Print Part Of ASCII Table\bin\Debug\Print Part Of ASCII Table.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Data Types and Variables\HOMEWORK\Data Types and Variables-1\Print Part Of ASCII Table\obj\Debug\Print Part Of ASCII Table.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Data Types and Variables\HOMEWORK\Data Types and Variables-1\Print Part Of ASCII Table\obj\Debug\Print Part Of ASCII Table.pdb

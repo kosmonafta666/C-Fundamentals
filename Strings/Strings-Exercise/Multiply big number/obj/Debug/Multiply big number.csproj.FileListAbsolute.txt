@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Strings\Strings-Exercise\Multiply big number\bin\Debug\Multiply big number.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Strings\Strings-Exercise\Multiply big number\bin\Debug\Multiply big number.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Strings\Strings-Exercise\Multiply big number\bin\Debug\Multiply big number.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Strings\Strings-Exercise\Multiply big number\obj\Debug\Multiply big number.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Strings\Strings-Exercise\Multiply big number\obj\Debug\Multiply big number.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Strings\Strings-Exercise\Multiply big number\obj\Debug\Multiply big number.pdb

@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Exam Preparation II\Exam Preparation II\Ladybugs\bin\Debug\Ladybugs.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Exam Preparation II\Exam Preparation II\Ladybugs\bin\Debug\Ladybugs.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Exam Preparation II\Exam Preparation II\Ladybugs\bin\Debug\Ladybugs.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Exam Preparation II\Exam Preparation II\Ladybugs\obj\Debug\Ladybugs.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Exam Preparation II\Exam Preparation II\Ladybugs\obj\Debug\Ladybugs.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Exam Preparation II\Exam Preparation II\Ladybugs\obj\Debug\Ladybugs.pdb

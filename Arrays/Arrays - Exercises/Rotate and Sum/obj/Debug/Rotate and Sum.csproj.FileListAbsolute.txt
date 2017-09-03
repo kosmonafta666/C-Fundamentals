@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Arrays\Arrays - Exercises\Rotate and Sum\bin\Debug\Rotate and Sum.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Arrays\Arrays - Exercises\Rotate and Sum\bin\Debug\Rotate and Sum.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Arrays\Arrays - Exercises\Rotate and Sum\bin\Debug\Rotate and Sum.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Arrays\Arrays - Exercises\Rotate and Sum\obj\Debug\Rotate and Sum.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Arrays\Arrays - Exercises\Rotate and Sum\obj\Debug\Rotate and Sum.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Arrays\Arrays - Exercises\Rotate and Sum\obj\Debug\Rotate and Sum.pdb

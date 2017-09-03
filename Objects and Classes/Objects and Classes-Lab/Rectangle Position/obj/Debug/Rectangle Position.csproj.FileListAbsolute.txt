@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Objects and Classes\Objects and Classes-Lab\Rectangle Position\bin\Debug\Rectangle Position.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Objects and Classes\Objects and Classes-Lab\Rectangle Position\bin\Debug\Rectangle Position.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Objects and Classes\Objects and Classes-Lab\Rectangle Position\bin\Debug\Rectangle Position.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Objects and Classes\Objects and Classes-Lab\Rectangle Position\obj\Debug\Rectangle Position.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Objects and Classes\Objects and Classes-Lab\Rectangle Position\obj\Debug\Rectangle Position.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Objects and Classes\Objects and Classes-Lab\Rectangle Position\obj\Debug\Rectangle Position.pdb

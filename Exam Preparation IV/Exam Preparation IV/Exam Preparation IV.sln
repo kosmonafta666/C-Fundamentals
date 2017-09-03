@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sweet Dessert", "Sweet Dessert\Sweet Dessert.csproj", "{9C9639B3-0CCB-4596-9722-6A9FE0B49955}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array Manipulator", "Array Manipulator\Array Manipulator.csproj", "{A99E6C63-E4D4-462E-AF1C-A2409C4D9500}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Football League", "Football League\Football League.csproj", "{45CD58D6-83E2-40D3-BD05-519673F6B305}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C9639B3-0CCB-4596-9722-6A9FE0B49955}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C9639B3-0CCB-4596-9722-6A9FE0B49955}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C9639B3-0CCB-4596-9722-6A9FE0B49955}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C9639B3-0CCB-4596-9722-6A9FE0B49955}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A99E6C63-E4D4-462E-AF1C-A2409C4D9500}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A99E6C63-E4D4-462E-AF1C-A2409C4D9500}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A99E6C63-E4D4-462E-AF1C-A2409C4D9500}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A99E6C63-E4D4-462E-AF1C-A2409C4D9500}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45CD58D6-83E2-40D3-BD05-519673F6B305}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45CD58D6-83E2-40D3-BD05-519673F6B305}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45CD58D6-83E2-40D3-BD05-519673F6B305}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45CD58D6-83E2-40D3-BD05-519673F6B305}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

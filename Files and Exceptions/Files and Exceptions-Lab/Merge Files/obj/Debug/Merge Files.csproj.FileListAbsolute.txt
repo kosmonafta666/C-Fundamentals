@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Files and Exceptions\Files and Exceptions-Lab\Merge Files\bin\Debug\Merge Files.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Files and Exceptions\Files and Exceptions-Lab\Merge Files\bin\Debug\Merge Files.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Files and Exceptions\Files and Exceptions-Lab\Merge Files\bin\Debug\Merge Files.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Files and Exceptions\Files and Exceptions-Lab\Merge Files\obj\Debug\Merge Files.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Files and Exceptions\Files and Exceptions-Lab\Merge Files\obj\Debug\Merge Files.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Files and Exceptions\Files and Exceptions-Lab\Merge Files\obj\Debug\Merge Files.pdb

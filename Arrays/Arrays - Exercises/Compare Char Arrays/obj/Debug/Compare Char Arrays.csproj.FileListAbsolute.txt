@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Arrays\Arrays - Exercises\Compare Char Arrays\bin\Debug\Compare Char Arrays.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Arrays\Arrays - Exercises\Compare Char Arrays\bin\Debug\Compare Char Arrays.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Arrays\Arrays - Exercises\Compare Char Arrays\bin\Debug\Compare Char Arrays.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Arrays\Arrays - Exercises\Compare Char Arrays\obj\Debug\Compare Char Arrays.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Arrays\Arrays - Exercises\Compare Char Arrays\obj\Debug\Compare Char Arrays.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Arrays\Arrays - Exercises\Compare Char Arrays\obj\Debug\Compare Char Arrays.pdb

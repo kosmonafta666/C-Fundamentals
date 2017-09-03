@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Dictionaries, Lambda and LINQ\Dictionaries-Exercises\Fix Emails\bin\Debug\Fix Emails.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Dictionaries, Lambda and LINQ\Dictionaries-Exercises\Fix Emails\bin\Debug\Fix Emails.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Dictionaries, Lambda and LINQ\Dictionaries-Exercises\Fix Emails\bin\Debug\Fix Emails.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Dictionaries, Lambda and LINQ\Dictionaries-Exercises\Fix Emails\obj\Debug\Fix Emails.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Dictionaries, Lambda and LINQ\Dictionaries-Exercises\Fix Emails\obj\Debug\Fix Emails.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Dictionaries, Lambda and LINQ\Dictionaries-Exercises\Fix Emails\obj\Debug\Fix Emails.pdb

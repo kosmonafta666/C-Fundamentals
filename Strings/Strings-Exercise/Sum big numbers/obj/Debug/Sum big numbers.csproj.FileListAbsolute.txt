@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Strings\Strings-Exercise\Sum big numbers\bin\Debug\Sum big numbers.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Strings\Strings-Exercise\Sum big numbers\bin\Debug\Sum big numbers.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Strings\Strings-Exercise\Sum big numbers\bin\Debug\Sum big numbers.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Strings\Strings-Exercise\Sum big numbers\obj\Debug\Sum big numbers.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Strings\Strings-Exercise\Sum big numbers\obj\Debug\Sum big numbers.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Strings\Strings-Exercise\Sum big numbers\obj\Debug\Sum big numbers.pdb

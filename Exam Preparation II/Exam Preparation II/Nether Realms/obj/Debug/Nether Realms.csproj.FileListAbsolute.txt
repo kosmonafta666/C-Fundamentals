@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Exam Preparation II\Exam Preparation II\Nether Realms\bin\Debug\Nether Realms.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Exam Preparation II\Exam Preparation II\Nether Realms\bin\Debug\Nether Realms.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Exam Preparation II\Exam Preparation II\Nether Realms\bin\Debug\Nether Realms.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Exam Preparation II\Exam Preparation II\Nether Realms\obj\Debug\Nether Realms.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Exam Preparation II\Exam Preparation II\Nether Realms\obj\Debug\Nether Realms.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Exam Preparation II\Exam Preparation II\Nether Realms\obj\Debug\Nether Realms.pdb

@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Strings\Strings-Lab\Count Substring Occurrences\bin\Debug\Count Substring Occurrences.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Strings\Strings-Lab\Count Substring Occurrences\obj\Debug\Count Substring Occurrences.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Strings\Strings-Lab\Count Substring Occurrences\bin\Debug\Count Substring Occurrences.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Strings\Strings-Lab\Count Substring Occurrences\bin\Debug\Count Substring Occurrences.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Strings\Strings-Lab\Count Substring Occurrences\obj\Debug\Count Substring Occurrences.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Strings\Strings-Lab\Count Substring Occurrences\obj\Debug\Count Substring Occurrences.pdb

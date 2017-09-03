@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Dictionaries, Lambda and LINQ\Dictionaries-Exercises\Phonebook Upgrade\bin\Debug\Phonebook Upgrade.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Dictionaries, Lambda and LINQ\Dictionaries-Exercises\Phonebook Upgrade\bin\Debug\Phonebook Upgrade.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Dictionaries, Lambda and LINQ\Dictionaries-Exercises\Phonebook Upgrade\bin\Debug\Phonebook Upgrade.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Dictionaries, Lambda and LINQ\Dictionaries-Exercises\Phonebook Upgrade\obj\Debug\Phonebook Upgrade.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Dictionaries, Lambda and LINQ\Dictionaries-Exercises\Phonebook Upgrade\obj\Debug\Phonebook Upgrade.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Dictionaries, Lambda and LINQ\Dictionaries-Exercises\Phonebook Upgrade\obj\Debug\Phonebook Upgrade.pdb

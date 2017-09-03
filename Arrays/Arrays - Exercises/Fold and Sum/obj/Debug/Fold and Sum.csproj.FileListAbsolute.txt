@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Arrays\Arrays - Exercises\Fold and Sum\bin\Debug\Fold and Sum.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Arrays\Arrays - Exercises\Fold and Sum\bin\Debug\Fold and Sum.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Arrays\Arrays - Exercises\Fold and Sum\bin\Debug\Fold and Sum.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Arrays\Arrays - Exercises\Fold and Sum\obj\Debug\Fold and Sum.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Arrays\Arrays - Exercises\Fold and Sum\obj\Debug\Fold and Sum.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Arrays\Arrays - Exercises\Fold and Sum\obj\Debug\Fold and Sum.pdb

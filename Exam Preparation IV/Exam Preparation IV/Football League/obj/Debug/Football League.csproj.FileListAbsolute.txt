@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Exam Preparation IV\Exam Preparation IV\Football League\bin\Debug\Football League.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Exam Preparation IV\Exam Preparation IV\Football League\bin\Debug\Football League.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Exam Preparation IV\Exam Preparation IV\Football League\bin\Debug\Football League.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Exam Preparation IV\Exam Preparation IV\Football League\obj\Debug\Football League.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Exam Preparation IV\Exam Preparation IV\Football League\obj\Debug\Football League.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Exam Preparation IV\Exam Preparation IV\Football League\obj\Debug\Football League.pdb

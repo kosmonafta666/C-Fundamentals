@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Objects and Classes\Objects and Classes-Lab\Closest Two Points\bin\Debug\Closest Two Points.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Objects and Classes\Objects and Classes-Lab\Closest Two Points\bin\Debug\Closest Two Points.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Objects and Classes\Objects and Classes-Lab\Closest Two Points\bin\Debug\Closest Two Points.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Objects and Classes\Objects and Classes-Lab\Closest Two Points\obj\Debug\Closest Two Points.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Objects and Classes\Objects and Classes-Lab\Closest Two Points\obj\Debug\Closest Two Points.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Objects and Classes\Objects and Classes-Lab\Closest Two Points\obj\Debug\Closest Two Points.csprojResolveAssemblyReference.cache

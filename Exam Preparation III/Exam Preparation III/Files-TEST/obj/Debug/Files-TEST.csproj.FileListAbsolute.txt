@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Exam Preparation III\Exam Preparation III\Files-TEST\bin\Debug\Files-TEST.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Exam Preparation III\Exam Preparation III\Files-TEST\bin\Debug\Files-TEST.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Exam Preparation III\Exam Preparation III\Files-TEST\bin\Debug\Files-TEST.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Exam Preparation III\Exam Preparation III\Files-TEST\obj\Debug\Files-TEST.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Exam Preparation III\Exam Preparation III\Files-TEST\obj\Debug\Files-TEST.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Exam Preparation III\Exam Preparation III\Files-TEST\obj\Debug\Files-TEST.pdb

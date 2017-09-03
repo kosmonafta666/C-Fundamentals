@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\EXAM\Programming Fundamentals\Hornet Assault\bin\Debug\Hornet Assault.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\EXAM\Programming Fundamentals\Hornet Assault\bin\Debug\Hornet Assault.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\EXAM\Programming Fundamentals\Hornet Assault\bin\Debug\Hornet Assault.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\EXAM\Programming Fundamentals\Hornet Assault\obj\Debug\Hornet Assault.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\EXAM\Programming Fundamentals\Hornet Assault\obj\Debug\Hornet Assault.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\EXAM\Programming Fundamentals\Hornet Assault\obj\Debug\Hornet Assault.pdb

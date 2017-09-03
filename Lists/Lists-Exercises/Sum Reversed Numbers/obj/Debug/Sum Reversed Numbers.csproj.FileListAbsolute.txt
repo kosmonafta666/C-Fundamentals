@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists\Lists-Exercises\Sum Reversed Numbers\bin\Debug\Sum Reversed Numbers.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists\Lists-Exercises\Sum Reversed Numbers\bin\Debug\Sum Reversed Numbers.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists\Lists-Exercises\Sum Reversed Numbers\bin\Debug\Sum Reversed Numbers.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists\Lists-Exercises\Sum Reversed Numbers\obj\Debug\Sum Reversed Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists\Lists-Exercises\Sum Reversed Numbers\obj\Debug\Sum Reversed Numbers.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Lists\Lists-Exercises\Sum Reversed Numbers\obj\Debug\Sum Reversed Numbers.pdb

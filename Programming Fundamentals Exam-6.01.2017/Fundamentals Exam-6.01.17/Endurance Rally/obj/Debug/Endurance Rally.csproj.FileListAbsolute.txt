@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Programming Fundamentals Exam-6.01.2017\Fundamentals Exam-6.01.17\Endurance Rally\bin\Debug\Endurance Rally.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Programming Fundamentals Exam-6.01.2017\Fundamentals Exam-6.01.17\Endurance Rally\bin\Debug\Endurance Rally.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Programming Fundamentals Exam-6.01.2017\Fundamentals Exam-6.01.17\Endurance Rally\bin\Debug\Endurance Rally.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Programming Fundamentals Exam-6.01.2017\Fundamentals Exam-6.01.17\Endurance Rally\obj\Debug\Endurance Rally.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Programming Fundamentals Exam-6.01.2017\Fundamentals Exam-6.01.17\Endurance Rally\obj\Debug\Endurance Rally.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Programming Fundamentals Exam-6.01.2017\Fundamentals Exam-6.01.17\Endurance Rally\obj\Debug\Endurance Rally.pdb

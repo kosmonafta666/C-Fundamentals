@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Arrays\Arrays-Lab\Extract Middle Elements\bin\Debug\Extract Middle Elements.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Arrays\Arrays-Lab\Extract Middle Elements\obj\Debug\Extract Middle Elements.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Arrays\Arrays-Lab\Extract Middle Elements\bin\Debug\Extract Middle Elements.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Arrays\Arrays-Lab\Extract Middle Elements\bin\Debug\Extract Middle Elements.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Arrays\Arrays-Lab\Extract Middle Elements\obj\Debug\Extract Middle Elements.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Arrays\Arrays-Lab\Extract Middle Elements\obj\Debug\Extract Middle Elements.pdb

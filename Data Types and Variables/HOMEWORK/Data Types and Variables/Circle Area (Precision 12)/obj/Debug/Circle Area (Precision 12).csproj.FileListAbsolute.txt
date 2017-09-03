@@ -1,0 +1,5 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Data Types and Variables\HOMEWORK\Data Types and Variables\Circle Area (Precision 12)\bin\Debug\Circle Area (Precision 12).exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Data Types and Variables\HOMEWORK\Data Types and Variables\Circle Area (Precision 12)\bin\Debug\Circle Area (Precision 12).exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Data Types and Variables\HOMEWORK\Data Types and Variables\Circle Area (Precision 12)\bin\Debug\Circle Area (Precision 12).pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Data Types and Variables\HOMEWORK\Data Types and Variables\Circle Area (Precision 12)\obj\Debug\Circle Area (Precision 12).exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Data Types and Variables\HOMEWORK\Data Types and Variables\Circle Area (Precision 12)\obj\Debug\Circle Area (Precision 12).pdb

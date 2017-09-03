@@ -1,0 +1,6 @@
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Regex\Regex-Exercise\Extract Emails\bin\Debug\Extract Emails.exe.config
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Regex\Regex-Exercise\Extract Emails\bin\Debug\Extract Emails.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Regex\Regex-Exercise\Extract Emails\bin\Debug\Extract Emails.pdb
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Regex\Regex-Exercise\Extract Emails\obj\Debug\Extract Emails.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Regex\Regex-Exercise\Extract Emails\obj\Debug\Extract Emails.exe
+C:\Users\Sony\Downloads\SoftUNI\Programming Fundamentals\Regex\Regex-Exercise\Extract Emails\obj\Debug\Extract Emails.pdb
